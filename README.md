@@ -8,4 +8,4 @@ Program uses the following packages:
 
 The API calls are made to the UK National Grid's [API](https://api.carbonintensity.org.uk/)
 
-[Mygrab](./screengrab.png)
+![Mygrab](./screengrab.png)
