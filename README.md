@@ -8,4 +8,11 @@ Program uses the following packages:
 
 The API calls are made to the UK National Grid's [API](https://api.carbonintensity.org.uk/)
 
+
 ![Mygrab](/screen1.png)
+
+
+**TO DO**
+- Make an emissions intensity viewer
+- Integrate with wholesale electricity prices 
+- Integrate with weather map API (e.g. windy)
